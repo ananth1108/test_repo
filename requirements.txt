@@ -1,0 +1,9 @@
+open3d
+scipy
+trimesh
+matplotlib
+numpy
+xformers
+gsplat
+torch
+torchvision
